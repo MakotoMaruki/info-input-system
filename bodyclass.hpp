@@ -10,7 +10,8 @@
 
 #include <string>
 
-class patient{
+class patient
+{
     std::string m_name;
     std::string m_phone_num;
     std::string m_disease;
